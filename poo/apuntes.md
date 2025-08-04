@@ -1,0 +1,2 @@
+##Encapsulamiento
+Maneja el acceso
